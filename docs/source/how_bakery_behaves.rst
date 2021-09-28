@@ -42,7 +42,7 @@ Model Bakery should handle fields that:
 Currently supported fields
 --------------------------
 
-* ``BooleanField``, ``NullBooleanField``, ``IntegerField``, ``BigIntegerField``, ``SmallIntegerField``, ``PositiveIntegerField``, ``PositiveSmallIntegerField``, ``FloatField``, ``DecimalField``
+* ``BooleanField``, ``IntegerField``, ``BigIntegerField``, ``SmallIntegerField``, ``PositiveIntegerField``, ``PositiveSmallIntegerField``, ``FloatField``, ``DecimalField``
 * ``CharField``, ``TextField``, ``BinaryField``, ``SlugField``, ``URLField``, ``EmailField``, ``IPAddressField``, ``GenericIPAddressField``, ``ContentType``
 * ``ForeignKey``, ``OneToOneField``, ``ManyToManyField`` (even with through model)
 * ``DateField``, ``DateTimeField``, ``TimeField``, ``DurationField``
